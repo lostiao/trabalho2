@@ -1,0 +1,36 @@
+
+/* estilo dos titulos */
+h1 {
+    background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);text-align: center;
+}
+
+/* estilo dos titulos */
+
+
+/* estilo de toda a pagina */
+html {
+    background-color: #35f3e0; font-size: larger;
+}
+/* estilo de toda a pagina */
+
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Remove os espaços entre as bordas das células */
+    border: 2px solid black; /* Borda ao redor da tabela inteira */
+}
+th, td {
+    border: 1px solid black; /* Borda ao redor das células */
+    padding: 8px; /* Espaçamento interno das células */
+    text-align: left; /* Alinhamento do texto */
+}
+th {
+    background-color: #f2f2f2; /* Cor de fundo para o cabeçalho */
+}
+th {text-align: center; vertical-align: middle}
+
+.sobre{ font-size: larger; background-color: rgb(255, 255, 255);}
+
+
+
+.cor1   {}
