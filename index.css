@@ -1,18 +1,14 @@
-
+html{
+ 
+}
 /* estilo dos titulos */
 h1 {
     background-color:rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255);text-align: center;
 }
-
-/* estilo dos titulos */
-
-
-/* estilo de toda a pagina */
-html {
-    background-color: #35f3e0; font-size: larger;
+.inforacaocss {
+    background-color: rgb(142, 201, 246);
 }
-/* estilo de toda a pagina */
-
+/* estilo dos titulos */
 
 table {
     width: 100%;
@@ -27,10 +23,12 @@ th, td {
 th {
     background-color: #f2f2f2; /* Cor de fundo para o cabeçalho */
 }
+
 th {text-align: center; vertical-align: middle}
 
-.sobre{ font-size: larger; background-color: rgb(255, 255, 255);}
-
-
-
-.cor1   {}
+.titulo1 { margin-inline: 35%;
+}
+ 
+.cor1 {
+    text-decoration-color: brown;
+}
